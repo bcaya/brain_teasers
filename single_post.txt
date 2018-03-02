@@ -1,0 +1,1 @@
+{"id":95,"name":"Bobbys Chicken Feed","base_price":13.0,"description":"try this yummy food","quantity_on_hand":13,"color":"yellow","weight":"12","other_attributes":null}
